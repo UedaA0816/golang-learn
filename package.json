@@ -1,0 +1,9 @@
+{
+  "name": "golang-learn",
+  "private": true,
+  "scripts": {
+    "start": "air",
+    "build": "",
+    "test": ""
+  }
+}
